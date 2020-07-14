@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Programming\Assembly\assembly_one\Assembly_one\Source.cpp(85,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Programming\Assembly\assembly_one\Assembly_one\Source.cpp(109,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Assembly_one.vcxproj -> D:\Programming\Assembly\assembly_one\Assembly_one\Debug\Assembly_one.exe
